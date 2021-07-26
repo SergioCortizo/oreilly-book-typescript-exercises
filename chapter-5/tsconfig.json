@@ -1,0 +1,25 @@
+{
+    "compilerOptions": {
+        "lib": [
+            "es2017",
+            "DOM"
+        ],
+        "module": "commonjs",
+        "outDir": "dist",
+        "sourceMap": true,
+        "strict": true,
+        "target": "es2017",
+        "types": [
+            "jest", "node"
+        ],
+        "typeRoots": [
+            "./types",
+            "./node_modules/@types"
+        ]
+    },
+    "include": [
+        "src",
+        "./tests/**/*.tsx",
+        "./tests/**/*.ts"
+    ]
+}

@@ -9,6 +9,8 @@ node_modules/
 # Dist
 dist/
 
+# Coverage
+coverage/
 
 # User-specific files
 *.rsuser
