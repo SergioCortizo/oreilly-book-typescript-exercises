@@ -1,0 +1,17 @@
+{
+  "name": "chapter-6",
+  "version": "1.0.0",
+  "description": "O'Reilly TypeScript Book Chapter 7",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^15.12.4",
+    "tslint": "^6.1.3",
+    "typescript": "^4.3.4"
+  }
+}

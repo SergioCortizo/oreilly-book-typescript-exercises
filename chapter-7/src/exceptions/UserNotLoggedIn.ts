@@ -1,0 +1,1 @@
+export class UserNotLoggedIn extends Error{}
